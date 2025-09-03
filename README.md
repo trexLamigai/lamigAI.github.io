@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LamigAI - Exploring the World of AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        .section {
+            background-color: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>Welcome to LamigAI</h1>
+        <p>Your one-stop destination for all things Artificial Intelligence.</p>
+    </header>
+
+    <div class="container">
+        <section class="section">
+            <h2>What is Artificial Intelligence?</h2>
+            <p>Artificial Intelligence, or AI, is a field of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence. These tasks include learning, problem-solving, perception, and decision-making. AI is revolutionizing various industries, from healthcare to finance, by automating processes and providing valuable insights. </p>
+        </section>
+
+        <section class="section">
+            <h2>Types of AI</h2>
+            <p>AI can be broadly classified into several types:</p>
+            <ul>
+                <li><strong>Narrow AI (Weak AI):</strong> Designed and trained for a particular task (e.g., Siri, Google Assistant).</li>
+                <li><strong>General AI (Strong AI):</strong> Hypothetical AI with human-level intelligence that can understand, learn, and apply knowledge to solve any problem.</li>
+                <li><strong>Superintelligence:</strong> A hypothetical AI that surpasses human intelligence.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Future of AI</h2>
+            <p>The future of AI is incredibly promising. It has the potential to solve some of the world's biggest challenges, from climate change to medical breakthroughs. However, it also brings up ethical questions about job displacement, privacy, and bias. As AI technology continues to evolve, it's crucial to ensure it's developed and used responsibly.</p>
+        </section>
+    </div>
+</body>
+</html>
